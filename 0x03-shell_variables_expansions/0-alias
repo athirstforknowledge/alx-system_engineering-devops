@@ -1,0 +1,5 @@
+#!/bin/bash
+# Script: 0-alias
+# Description: Creates an alias named 'ls' with the value 'rm *'
+# Usage: source ./0-alias
+alias ls='rm *'
